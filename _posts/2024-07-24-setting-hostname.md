@@ -1,5 +1,6 @@
 ---
 title: Setting hostname using CLI
+author: troglobit
 date: 2024-07-24 12:18:00 +0100
 categories: [examples]
 tags: [cli]
