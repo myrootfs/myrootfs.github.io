@@ -1,6 +1,6 @@
 ---
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 Infix is a free, Linux based, immutable operating system for networked

@@ -1,6 +1,6 @@
 ---
 icon: fas fa-terminal
-order: 6
+order: 2
 ---
 
 The CLI configure context is automatically generated from the loaded
